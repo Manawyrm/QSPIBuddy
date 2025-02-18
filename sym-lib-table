@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RPi_Hat")(type "KiCad")(uri "${KIPRJMOD}/libraries/RPi_Hat.kicad_sym")(options "")(descr ""))
+  (lib (name "timux")(type "KiCad")(uri "${KIPRJMOD}/timux.kicad_sym")(options "")(descr ""))
+  (lib (name "flash25q")(type "KiCad")(uri "${KIPRJMOD}/flash25q.kicad_sym")(options "")(descr ""))
+  (lib (name "Silergy")(type "KiCad")(uri "${KIPRJMOD}/Silergy.kicad_sym")(options "")(descr ""))
+)
